@@ -1,5 +1,14 @@
 # psikometrik
 
+Koleksi ujian psikometri (serius dan sekadar hiburan) dalam Bahasa Melayu
+
+Dibangunkan menggunakan VueJS dan Vuetify
+
+Koleksi buat masa ini:
+
+1. Ujian Glazer 1978 (olahan)
+
+
 ## Project setup
 ```
 npm install
