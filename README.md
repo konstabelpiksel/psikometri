@@ -7,6 +7,7 @@ Dibangunkan menggunakan VueJS dan Vuetify
 Koleksi buat masa ini:
 
 1. Ujian Glazer 1978 (olahan)
+2. Ujian Umur Mental (terjemahan daripada Ujian bahasa Inggeris)
 
 
 ## Project setup
