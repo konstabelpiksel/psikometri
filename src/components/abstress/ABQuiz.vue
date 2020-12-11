@@ -3,7 +3,7 @@
     <div id="abquiz">
       <div v-if="introStage" class="text-justify pa-5">
         <div class="text-center">
-          <img src="@/assets/stres.png" style="width: 10em" alt="" />
+          <img src="@/assets/stres.png" alt="" />
         </div>
         <p>
           Ujian ini adalah terjemahan dan olahan soal selidik Glazer (1978). Ia

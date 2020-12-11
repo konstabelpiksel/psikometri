@@ -4,6 +4,8 @@ import Home from '../views/Home.vue'
 import About from '../views/About.vue'
 import Disclaimer from '../views/Disclaimer.vue'
 import Abstress from '../views/Abstress.vue'
+import Mentalage from '../views/Mentalage.vue'
+
 
 Vue.use(VueRouter)
 
@@ -17,7 +19,11 @@ const routes = [
     path: '/abstress',
     name: 'Abstress',
     component: Abstress
-
+  },
+  {
+    path: '/mentalage',
+    name: 'Mentalage',
+    component: Mentalage
   },
   {
     path: '/disclaimer',

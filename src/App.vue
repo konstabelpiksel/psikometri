@@ -58,7 +58,8 @@ export default {
     drawer: false,
     items: [
       { title: "Induk", icon: "mdi-home-circle", to: "/" },
-      { title: "Personaliti A/B & Stres", icon: "mdi-file-document-edit", to: "/abstress" },
+      { title: "Personaliti A/B & Stres", icon: "mdi-head-snowflake-outline", to: "/abstress" },
+      { title: "Umur Mental Anda", icon: "mdi-brain", to: "/mentalage" },
       { title: "Penafian", icon: "mdi-gavel", to: "/disclaimer" },
       { title: "Tentang", icon: "mdi-information", to: "/about" }
     ],

@@ -1,17 +1,17 @@
 <template>
   <div id="mentalage">
-    <!--Mentalagequiz></MentalAgeQuiz-->
+    <MentalQuiz></MentalQuiz>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-//import MentalAgeQuiz from '@/components/mentalage/MentalAgeQuiz.vue';
+import MentalQuiz from '@/components/mentalage/MentalQuiz.vue';
 
 export default {
   name: 'Mentalage',
   components: {
-    //MentalAgeQuiz   
+    MentalQuiz   
   }
 }
 </script>
