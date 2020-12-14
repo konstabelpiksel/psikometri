@@ -46,6 +46,28 @@
       </v-col>
 
       <v-col cols="12">
+        <v-card color="lime darken-2" dark
+          ><div class="d-flex flex-no-wrap justify-space-between">
+            <div>
+              <v-card-title class="headline">
+                Orientasi Seksual Anda
+              </v-card-title>
+              <v-card-subtitle>Berdasarkan Model LLORT</v-card-subtitle>
+
+              <v-card-actions>
+                <router-link to="/sexorient" style="text-decoration: none;">
+                  <v-btn> Akses </v-btn>
+                </router-link>
+              </v-card-actions>
+            </div>
+            <v-avatar class="ma-3" size="125" tile>
+              <v-img src="@/assets/shreks/logo.png"></v-img>
+            </v-avatar>
+          </div>
+        </v-card>
+      </v-col>
+
+      <v-col cols="12">
         <v-card color="orange darken-1" dark
           ><div class="d-flex flex-no-wrap justify-space-between">
             <div>

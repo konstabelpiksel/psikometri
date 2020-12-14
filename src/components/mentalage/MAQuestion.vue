@@ -43,7 +43,7 @@ export default {
   methods: {
     submitAnswer: function(e){
       var ans = e.currentTarget.getAttribute('nilai');
-      console.log(ans);
+      //console.log(ans);
       this.$emit("answer", { answer: ans });
       }
   }

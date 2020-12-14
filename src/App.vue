@@ -60,6 +60,7 @@ export default {
       { title: "Induk", icon: "mdi-home-circle", to: "/" },
       { title: "Personaliti A/B & Stres", icon: "mdi-head-snowflake-outline", to: "/abstress" },
       { title: "Umur Mental Anda", icon: "mdi-brain", to: "/mentalage" },
+      { title: "Orientasi Seksual", icon: "mdi-heart-multiple", to: "/sexorient" },
       { title: "Penafian", icon: "mdi-gavel", to: "/disclaimer" },
       { title: "Tentang", icon: "mdi-information", to: "/about" }
     ],

@@ -5,6 +5,8 @@ import About from '../views/About.vue'
 import Disclaimer from '../views/Disclaimer.vue'
 import Abstress from '../views/Abstress.vue'
 import Mentalage from '../views/Mentalage.vue'
+import Sexorient from '../views/Sexorient.vue'
+
 
 
 Vue.use(VueRouter)
@@ -24,6 +26,11 @@ const routes = [
     path: '/mentalage',
     name: 'Mentalage',
     component: Mentalage
+  },
+  {
+    path: '/sexorient',
+    name: 'Sexorient',
+    component: Sexorient
   },
   {
     path: '/disclaimer',

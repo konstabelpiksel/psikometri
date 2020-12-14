@@ -136,7 +136,7 @@ export default {
     startQuiz() {
       this.introStage = false;
       this.questionStage = true;
-      console.log(currentage);
+      //console.log(currentage);
     },
     
     //this method is triggered via v-on when child component question emit "answer" via its submitAnswer method

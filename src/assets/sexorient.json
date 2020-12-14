@@ -1,0 +1,55 @@
+{
+	"title": "Orientasi Seksual Anda",
+	"questions": [
+		{
+            "id": 1,
+            "imeja": "1a.jpg",
+            "imejb": "1b.jpg"    
+        },
+        {
+            "id": 2,
+            "imeja": "2a.jpg",
+            "imejb": "2b.jpg"    
+        },
+        {
+            "id": 3,
+            "imeja": "3a.jpg",
+            "imejb": "3b.jpg"    
+        },
+        {
+            "id": 4,
+            "imeja": "4a.jpg",
+            "imejb": "4b.jpg"    
+        },
+        {
+            "id": 5,
+            "imeja": "5a.jpg",
+            "imejb": "5b.jpg"    
+        },
+        {
+            "id": 6,
+            "imeja": "6a.jpg",
+            "imejb": "6b.jpg"    
+        },
+        {
+            "id": 7,
+            "imeja": "7a.jpg",
+            "imejb": "7b.jpg"    
+        },
+        {
+            "id": 8,
+            "imeja": "8a.jpg",
+            "imejb": "8b.jpg"    
+        },
+        {
+            "id": 9,
+            "imeja": "9a.jpg",
+            "imejb": "9b.jpg"    
+        },
+        {
+            "id": 10,
+            "imeja": "10a.jpg",
+            "imejb": "10b.jpg"    
+        }
+	]
+}

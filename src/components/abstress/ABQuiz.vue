@@ -69,7 +69,7 @@
         <br/>
         <p class="text-justify">Ujian ini memberikan gambaran kasar hubungkait personaliti anda dengan personaliti Jenis A. Markah yang tinggi menandakan 
           anda mungkin berisiko menghadapi stres dan penyakit berkait. Individu personaliti Jenis B juga mungkin akan menjadi 
-          Jenis A apabila mereka membuat/menghadapi perubahan dalam kehidupuan seharian, mahupun sebaliknya.</p>
+          Jenis A apabila mereka membuat/menghadapi perubahan dalam kehidupan seharian, mahupun sebaliknya.</p>
         <div class="text-center">
           <router-link to="/" style="text-decoration: none">
             <v-btn class="teal lighten-2 ma-2"> Induk </v-btn>
