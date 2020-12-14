@@ -8,6 +8,7 @@ Koleksi buat masa ini:
 
 1. Ujian Glazer 1978 (olahan)
 2. Ujian Umur Mental (terjemahan daripada Ujian bahasa Inggeris)
+3. Ujian Orientasi Shreksual (troll) 
 
 
 ## Project setup
