@@ -2,6 +2,8 @@
 
 Koleksi ujian psikometri (serius dan sekadar hiburan) dalam Bahasa Melayu
 
+Boleh diakses di https://psikometri.netlify.app/#/
+
 Dibangunkan menggunakan VueJS dan Vuetify
 
 Koleksi buat masa ini:
